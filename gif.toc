@@ -1,0 +1,6 @@
+## Interface: 20400
+## Title: Gotai's Item Finder
+## Notes: Finds items in your bags!
+## Author: Gotai
+## Version: 1.0
+gif.lua

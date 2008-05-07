@@ -1,0 +1,4 @@
+Simple item finder addon for World of Warcraft.
+Searches through bags (and bank while at the bank) and highlights any items found.
+
+Usage: /find itemname
